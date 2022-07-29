@@ -9,6 +9,7 @@ function App() {
       <h1>Start developing</h1>
 
       <Product product={products[0]} />
+      <Product product={products[1]} />
     </div>
   );
 }
